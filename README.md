@@ -12,6 +12,7 @@ Use code with caution.
 
 ### Running the Script Manually
 step 5.Double-click: Double-click the battery_status.bat file to run it.
+
 step 6.Check the report: A new file called battery_report.html will appear on your desktop. Open it in a web browser to see your battery's health.
 
 
