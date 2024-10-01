@@ -22,7 +22,7 @@ step 8.Type shell:startup: This will open the Startup folder.
 
 step 9.Move the file: Copy or move the battery_status.bat file into the Startup folder.
 
-###### Now, every time you start your computer, the script will run automatically and generate a battery report.
+ Now, every time you start your computer, the script will run automatically and generate a battery report.
 
 ### License
 This project is licensed under the MIT License.
