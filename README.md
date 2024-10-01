@@ -19,7 +19,7 @@ step 6.Check the report: A new file called battery_report.html will appear on yo
 ### Setting the Script to Run Automatically on Startup
 step 7.Press Windows + R: This will open the "Run" dialog.
 
-step 8.Type shell:startup: This will open the Startup folder.
+step 8.Type ```shell:startup```: This will open the Startup folder.
 
 step 9.Move the file: Copy or move the battery_status.bat file into the Startup folder.
 
