@@ -7,7 +7,7 @@ step 2.Name the file: Rename the file to battery_status.bat.
 step 3.Add the script: Open the file with a text editor and paste the following code:
 
 ### Code snippet
-step 4.take the code from the above [battery_status.bat](Battery-Health-Monitoring-Automation/battery_status.bat) file
+step 4.take the code from the above [battery_status.bat](battery_status.bat) file
 Use code with caution.
 
 ### Running the Script Manually
